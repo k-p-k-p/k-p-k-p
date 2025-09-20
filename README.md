@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Kamalesh]
 
 🚀 Passionate about **Machine Learning, Computer Vision, and AI-powered Applications**.  
 I enjoy building projects that bridge data, intelligence, and user experience.  
